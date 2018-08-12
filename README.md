@@ -1,5 +1,3 @@
-# Prognosis
-
 # Overview
 
 ## [Data Exploration]()
