@@ -9,3 +9,6 @@
 ## [Model Building](../model_building/model.md)
 
 ## [Conclusion](../conclusion/conclusion.md)
+
+### Exploring the Sensor Data
+
