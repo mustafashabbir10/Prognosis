@@ -39,6 +39,7 @@ The unit is operating normally at the start of each time series, and develops fa
 ### Scope of Present Work
 
 The aim of this work is to develop an information system based on data driven prognostics. The present work focuses on the following points:
+
       1. Developing information system that utilizes more than one algorithm in RUL estimation to achieve the best performance.
       2. RUL estimation is performed indirectly by calculating engine health first then applying smoothing and extrapolating processes.
       3. The features utilized for RUL estimation are greatly optimized to exclude irrelevant features that affect negatively in system
