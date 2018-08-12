@@ -30,7 +30,7 @@ Therefore, the objective is to forecast the number of remaining operational cycl
 
 ### Data Description
 
-The problem solved in this project is the data challenge problem defined by the [2008 PHM conference data challeneg competition](https://c3.nasa.gov/dashlink/projects/15/). A dataset consisting of multiple multivariate time series is provided. This dataset is further divided into training and testing subset. Each timeseries is from a different instance of the same complex engineered system (referred to as "unit") and the data are from several aircraft engines of the same type. Each unit(engine) starts from a different degrees of initial wear and manufacturing variation which is unknown to the user. The data are contaminated with sensor noise.
+The problem solved in this project is the data challenge problem defined by the [2008 PHM conference data challenege competition](https://c3.nasa.gov/dashlink/projects/15/). A dataset consisting of multiple multivariate time series is provided. This dataset is further divided into training and testing subset. Each timeseries is from a different instance of the same complex engineered system (referred to as "unit") and the data are from several aircraft engines of the same type. Each unit(engine) starts from a different degrees of initial wear and manufacturing variation which is unknown to the user. The data are contaminated with sensor noise.
 
 The unit is operating normally at the start of each time series, and develops fault at some point during the series. In the training set, the fault grows in magnitude until the system failure. In the test set, the time series ends sometime prior to system failure. 
 
