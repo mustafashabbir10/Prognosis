@@ -1,15 +1,3 @@
-# Overview
-
-## [Data Exploration](Data_Exploration/exploration.md)
-
-## [Preprocessing]()
-
-## [Feature Extraction]()
-
-## [Model Building]()
-
-## [Conclusion]()
-
 ### Introduction
 
 Recent developments of complex systems, such as aircraft engines, engineering machines, high-speed vehicles and computer numerical control (CNC) systems have been emphasized by the increasing requirements of on-line health monitoring for the purpose of maximizing its operational reliability and safety. As the core part and power source of aircrafts, the reliable operation of an aero engine is critical for ensuring the reliability and safety of the aircraft, and to maintain its availability, and reduce its maintenance costs. Among them, prognostics and health management (PHM) is an effective approach and one of the most commonly-used. In particular, residual useful life (RUL) estimation is a key technology for PHM. 
