@@ -22,6 +22,8 @@ The problem solved in this project is the data challenge problem defined by the 
 
 The unit is operating normally at the start of each time series, and develops fault at some point during the series. In the training set, the fault grows in magnitude until the system failure. In the test set, the time series ends sometime prior to system failure. 
 
+![Prediction Challenge Image](Images/Challenge.PNG)
+
 ### Scope of Present Work
 
 The aim of this work is to develop an information system based on data driven prognostics. The present work focuses on the following points:
